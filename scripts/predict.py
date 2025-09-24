@@ -47,8 +47,8 @@
 
 import pickle
 import pandas as pd
-import cml.models_v1 as models
-import cml.metrics_v1 as metrics
+import cdsw as models
+import cdsw as metrics
 
 from src.utils import col_order
 

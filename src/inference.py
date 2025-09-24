@@ -45,7 +45,7 @@ import urllib
 import requests
 import concurrent
 import threading
-import cml.models_v1 as models
+import cdsw as models
 
 
 class ThreadedModelRequest:
